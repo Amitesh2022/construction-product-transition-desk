@@ -1,0 +1,1 @@
+<template><section class="panel insight"><span class="eyebrow">Transition guidance</span><h2>Every construction product needs reliable declarations and traceable digital information</h2><p>Manufacturers, notified bodies, designers and authorities can coordinate conformity evidence, CE marking and passport readiness.</p></section></template>
